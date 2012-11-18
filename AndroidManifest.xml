@@ -11,7 +11,6 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-        <uses-library android:name="com.android.chrome" android:required="true" />
         <activity android:name=".ViewSource" >
             <intent-filter>
                 <action android:name="android.intent.action.SEND" />

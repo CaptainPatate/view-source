@@ -1,5 +1,9 @@
 <resources>
 
     <string name="app_name">View Source</string>
+    <string name="chromeInstallMessageAlert">This app uses Chrome but it is not installed.\nDo you want to go to Play Store ?</string>
+    <string name="chromeInstallPositiveAlert">Open Play Store</string>
+    <string name="chromeInstallNegativeAlert">Cancel</string>
+    <string name="chromeInstallTitleAlert">Chrome is missing</string>
 
 </resources>
