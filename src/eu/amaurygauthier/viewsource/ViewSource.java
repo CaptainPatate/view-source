@@ -64,6 +64,7 @@ public class ViewSource extends Activity {
 						"requesting uri " + newUri.toString());
 				startActivity(chromeIntent
 						.setData(Uri.parse(newUri.toString())));
+				finish();
 			}
 		}
 	}
